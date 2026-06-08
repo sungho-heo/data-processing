@@ -13,7 +13,7 @@ INPUT_DIRS = [
     "./data/training3",
     "./data/training4",
 ]
-OUTPUT_PATH = "./legal_vector_data2.json"
+OUTPUT_PATH = "./legal_vector_data.json"
 
 # ================================================
 # 필터 설정
